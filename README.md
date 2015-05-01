@@ -3,7 +3,7 @@
 
 [![](https://raw.githubusercontent.com/reek/anti-adblock-killer/master/img/github_circle_32.png)](https://github.com/reek/anti-adblock-killer#anti-adblock-killer--reek)[![](https://raw.githubusercontent.com/reek/anti-adblock-killer/master/img/twitter_circle_32.png)](https://twitter.com/antiadbkiller)[![](https://raw.githubusercontent.com/reek/anti-adblock-killer/master/img/donate_circle_32.png)](https://github.com/reek/anti-adblock-killer#donate) 
  
-## /!\ IMPORTANT /!\
+## /!\ ВАЖНО /!\
 > **THIS IS NOT A UNIVERSAL SOLUTION FOR ALL ANTI ADBLOCK SCRIPTS**
 > **BEFORE REPORTING ANYTHING PLEASE READ THIS**
 
@@ -12,7 +12,7 @@
 Anti-Adblock Killer is a userscript whose functionality is removes many protections used on some website that force the user to disable the AdBlocker. So you can continue to visit this website without having to disable your Adblocker.
 
 
-## Donate
+## Помочь проекту
 **Make a donation is an act of generosity, and because your support, however modest it is necessary. Because you love or enjoy Anti-Adblock Killer. Your donations help to continue to support and improve this project!**
 
 **Benefits: Your queries will be given priority, and you will figure in the source code as well as a generous donor.**
@@ -25,77 +25,77 @@ Anti-Adblock Killer is a userscript whose functionality is removes many protecti
 
 
 
-## Instruction
+## Инструкция
 
-##### Requires: Adblock, Adblock Plus or uBlock Origin
+##### Требуется: Adblock, Adblock Plus или uBlock Origin
 
-#### Step 1: Script Manager (Install)
-* ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/master/img/firefox.png) [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) or Scriptish (Not supported)
-* ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/master/img/chrome.png) [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or  Native (Not supported)
-* ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/master/img/opera.png) [Tampermonkey](https://addons.opera.com/en/extensions/details/tampermonkey-beta/) or Violentmonkey (Not supported)
+#### Шаг 1: Менеджер сценариев (Установить)
+* ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/master/img/firefox.png) [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) или Scriptish (Не поддерживается)
+* ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/master/img/chrome.png) [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) или  Native (Не поддерживается)
+* ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/master/img/opera.png) [Tampermonkey](https://addons.opera.com/en/extensions/details/tampermonkey-beta/) или Violentmonkey (Не поддерживается)
 * ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/master/img/safari.png) [NinjaKit](https://github.com/os0x/NinjaKit)
 
-> ##### Note: After installation (which requires restarting your browser), you are now ready to install userscripts.
+> ##### Примечание: После установки (которая требует перезагрузки браузера), вы готовы к установке userscripts.
 
-#### Step 2: FilterList
-* [Subscribe](http://tinyurl.com/mulnz7l) *from github.com*
-* [Subscribe](http://tinyurl.com/mdf25f6) *from jsbin.com*
-* [Subscribe](http://tinyurl.com/le5kfdm) *from jsfiddle.net*
-* [Subscribe](http://tinyurl.com/mw4bbka) *from reeksite.com*
+#### Шаг 2: Список фильтр
+* [Подписаться](http://tinyurl.com/mulnz7l) *в github.com*
+* [Подписаться](http://tinyurl.com/mdf25f6) *в jsbin.com*
+* [Подписаться](http://tinyurl.com/le5kfdm) *в jsfiddle.net*
+* [Подписаться](http://tinyurl.com/mw4bbka) *в reeksite.com*
 
-#### Step 3: UserScript
-* [Install](http://tinyurl.com/mvpl5ku) *from greasyfork.org*
-* [Install](http://tinyurl.com/k39p6tz) *from openuserjs.org*
-* [Install](http://tinyurl.com/ong3bfe) *from github.com*
-* [Install](http://tinyurl.com/mfx7s42) *from reeksite.com*
+#### Шаг 3: UserScript
+* [Установить](http://tinyurl.com/mvpl5ku) *с greasyfork.org*
+* [Установить](http://tinyurl.com/k39p6tz) *с openuserjs.org*
+* [Установить](http://tinyurl.com/ong3bfe) *с github.com*
+* [Установить](http://tinyurl.com/mfx7s42) *с reeksite.com*
 
-> ##### Note: [Test](http://tinyurl.com/qecfa7w)
+> ##### Примечание: [Тест](http://tinyurl.com/qecfa7w)
 
-#### Step 4: Support Author
-* [Donate It](https://github.com/reek/anti-adblock-killer#donate)
-* Rate It
-* Share It (Social Network, Forums, Blogs, etc...)
+#### Шаг 4: Поддерать автора
+* [Помочь проекту](https://github.com/reek/anti-adblock-killer#donate)
+* Оценить
+* Поделиться (Социальная сеть, форум, блоги, и т.д. ...)
 * Follow It ([Twitter](https://twitter.com/antiadbkiller))
 * Become Fan
-* Report Anti-Adblock's
+* Сообщить Anti-Adblock'и
 
 
-## Features
-* Detect & Kill Anti-Adblocks
-* Detect list Anti-Adblock Killer
-* Check & Notify updates
-* More filters for Adblockers
-* [Suggest features](https://github.com/reek/anti-adblock-killer/issues)
+## Особенности
+* Обнаружение и убийство Anti-Adblocks
+* Список обнаруженных  Anti-Adblock Killer
+* Проверка и уведомление о обновлениях
+* Дополнительные фильтры для Adblockers
+* [Предложить функции](https://github.com/reek/anti-adblock-killer/issues)
 
 
-## Report
-* [Issue or anti-adblock](https://github.com/reek/anti-adblock-killer/wiki/Report-Guide)
+## Сообщить о
+* [Проблеме или anti-adblock'е](https://github.com/reek/anti-adblock-killer/wiki/Report-Guide)
 
 
-## Help
-1. Check if script manager is enabled (Greasemonkey, Tampermonkey, NinjaKit, etc...).
-2. Check if Anti-Adblock Killer is enabled.
-3. Check if you have installed the latest version of Anti-Adblock Killer (Step 3).
-4. Check if you have subscribe to Anti-Adblock Killer (Step 2).
-5. Check if you have another userscript not interfere with Anti-Adblock Killer.
+## Помощь
+1. Проверьте, включен ли менеджер скриптов (Greasemonkey, Tampermonkey, NinjaKit, и т.д ...).
+2. Проверьте включен ли Anti-Adblock Killer.
+3. Проверьте, установлена ли у вас последняя версия Anti-Adblock Killer (шаг 3).
+4. Проверьте, подписались ли вы на Anti-Adblock Killer (шаг 2).
+5. Проверьте, не конфликтует ли другой userscript с Anti-Adblock Killer.
 6. Check if one of these extensions is problematic (Disable Anti-Adblock 3.1, Ghostery, Online Security Avast, Donotrackme, Privacy Badger, Disconnect, Blur, TrackerBlock, Kaspersky Anti-Banner, Freebox (Anti-pub)).
-7. Remove duplicates Anti-Adblock Killer (Userscripts/Filters)
-8. Remove or disable personal filters.
+7. Удалите дубликаты Anti-Adblock Killer (Userscripts / Фильтры)
+8. Удалите или отключите личные фильтры.
 9. Check if the site is in "Supported Sites" or in "Changelog".
   1. If the site is not in it, please report it [here](https://github.com/reek/anti-adblock-killer/wiki/Report-Guide).
   2. If it exists, but the script dont work, it probably means that the anti adblock has changed, please report it [here](https://github.com/reek/anti-adblock-killer/wiki/Report-Guide)
 10. Consult Discussions or Issues
 
 
-## Browsers supported
+## Поддерживаемые браузеры
 * ![Firefox](https://raw.githubusercontent.com/reek/anti-adblock-killer/master/img/firefox.png) Firefox &#10004;
 * ![Chrome](https://raw.githubusercontent.com/reek/anti-adblock-killer/master/img/chrome.png) Chrome &#10004;
 * ![Opera](https://raw.githubusercontent.com/reek/anti-adblock-killer/master/img/opera.png) Opera &#10004;
 * ![Safari](https://raw.githubusercontent.com/reek/anti-adblock-killer/master/img/safari.png) Safari &#10004;
 
 
-## Sites Supported
-##### Plugins (Website)
+## Поддерживаемые сайты
+##### Плагины (Сайты)
 * Antiblock.org V2 & V3
 * AntiAdblock (ClemensConrads)
 * AntiAdblock (ErikSwan)
@@ -113,7 +113,7 @@ Anti-Adblock Killer is a userscript whose functionality is removes many protecti
 * No-Adblock - (no-adblock.com)
 * AdBuddy
 
-##### Plugins (Wordpress)
+##### Плагины (Wordpress)
 * WordPress AdBlock Blocker (thisismyurl.com)
 * No Adblock (noadblock.com)
 * AdBlock Alerter

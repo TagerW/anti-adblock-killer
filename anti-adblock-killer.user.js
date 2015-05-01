@@ -370,7 +370,7 @@ Aak = {
       // create
       var node = document.createElement('div');
       node.id = 'aak-notice';
-      node.innerHTML = '<div id="aak-notice-navbar"><b class="brand">Anti-Adblock Killer</b><a class="aak-navbar-link" title="Visit Homepage." href="' + Aak.homeURL + '">Homepage</a><a class="aak-navbar-link" title="Report issue or anti-adblock." href="' + Aak.reportURL + '">Report</a><a class="aak-navbar-link" title="See changes" href="' + Aak.changelogURL + '">Changelog</a><a class="aak-navbar-link" title="Make a donation to support the project." href="' + Aak.donateURL + '">Donate</a><a class="aak-navbar-link" title="Submit a new feature." href="' + Aak.featuresURL + '">Suggest Features</a><a class="aak-navbar-link" title="Follow on twitter." href="' + Aak.twitterURL + '">Twitter</a><a title="Close" href="javascript:void(0);" id="aak-notice-close">X</a></div><div id="aak-notice-content"><u style="font-size: 18px;">Notice:<br></u>' + message + '</div>';
+      node.innerHTML = '<div id="aak-notice-navbar"><b class="brand">Anti-Adblock Killer</b><a class="aak-navbar-link" title="Visit Homepage." href="' + Aak.homeURL + '">Homepage</a><a class="aak-navbar-link" title="Report issue or anti-adblock." href="' + Aak.reportURL + '">Report</a><a class="aak-navbar-link" title="See changes" href="' + Aak.changelogURL + '">Changelog</a><a class="aak-navbar-link" title="Make a donation to support the project." href="' + Aak.donateURL + '">Donate</a><a class="aak-navbar-link" title="Submit a new feature." href="' + Aak.featuresURL + '">Suggest Features</a><a class="aak-navbar-link" title="Follow on twitter." href="' + Aak.twitterURL + '">Twitter</a><a title="Close" href="javascript:void(0);" id="aak-notice-close">X</a></div><div id="aak-notice-content"><u style="font-size: 18px;">Обратите внимание:<br></u>' + message + '</div>';
 
       // append
       document.documentElement.appendChild(node);
@@ -416,7 +416,7 @@ Aak = {
   update : {
     check : function () {
       if (Aak.isTopWindow) {
-        Aak.notification('<b>Script: </b><i id="aak-update-script">Checking...</i><br/><b>List: </b><i id="aak-update-filters">Checking...</i>', 60000);
+        Aak.notification('<b>Скрипт: </b><i id="aak-update-script">Проверка...</i><br/><b>Список: </b><i id="aak-update-filters">Проверка...</i>', 60000);
         setTimeout(function () {
           Aak.update.getLatestVerScript();
           Aak.update.getLatestVerFilters();

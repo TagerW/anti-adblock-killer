@@ -127,937 +127,937 @@ Anti-Adblock Killer is a userscript whose functionality is removes many protecti
 
 ## Changelog
 ##### Upcoming changes
-* Kill: strikeout.co
-* Kill: bknime.com
-* Kill: vg.no
-* Kill: viki.mx
-* Kill: viki.com
-* Kill: alientube.co
-* Kill: proboards.com
-* Kill: freeforums.net
-* Kill: boards.net
-* Kill: pagefair.com (Tracking)
-* Kill: youwatch.org
-* Kill: kwejk.pl
-* Kill: e24.no
-* Kill: online.ua
-* Kill: danslescoulisses.com
-* Kill: vipleague.ws
-* Kill: vipleague.tv
-* Kill: vipleague.se
-* Kill: vipleague.me
-* Kill: vipleague.co
-* Kill: vipleague.sx
-* Kill: vipleague.ch
-* Kill: vipbox.tv
-* Kill: vipbox.co
-* Kill: vipbox.sx
-* Kill: vipboxsa.co
-* Kill: strikeout.co
-* Kill: homerun.re
-* Kill: stream4free.eu
-* Kill: gsmpro.com.pl
-* Kill: mjmartino.eu
-* Kill: mairie-soustons.fr
-* Kill: lechia.net
-* Kill: rmprepusb.com
-* Kill: openpli.org
-* Kill: simply-debrid.com
-* Kill: dzemploi.org
-* Kill: sparkylinux.org
-* Kill: captchme.com
-* Kill: demonoid.pw
-* Kill: carambatv.ru
-* Kill: rookie.com.pl
-* Kill: FuckAdBlock (Fix)
-* Kill: Better Stop Adblock
+* Убит: strikeout.co
+* Убит: bknime.com
+* Убит: vg.no
+* Убит: viki.mx
+* Убит: viki.com
+* Убит: alientube.co
+* Убит: proboards.com
+* Убит: freeforums.net
+* Убит: boards.net
+* Убит: pagefair.com (Tracking)
+* Убит: youwatch.org
+* Убит: kwejk.pl
+* Убит: e24.no
+* Убит: online.ua
+* Убит: danslescoulisses.com
+* Убит: vipleague.ws
+* Убит: vipleague.tv
+* Убит: vipleague.se
+* Убит: vipleague.me
+* Убит: vipleague.co
+* Убит: vipleague.sx
+* Убит: vipleague.ch
+* Убит: vipbox.tv
+* Убит: vipbox.co
+* Убит: vipbox.sx
+* Убит: vipboxsa.co
+* Убит: strikeout.co
+* Убит: homerun.re
+* Убит: stream4free.eu
+* Убит: gsmpro.com.pl
+* Убит: mjmartino.eu
+* Убит: mairie-soustons.fr
+* Убит: lechia.net
+* Убит: rmprepusb.com
+* Убит: openpli.org
+* Убит: simply-debrid.com
+* Убит: dzemploi.org
+* Убит: sparkylinux.org
+* Убит: captchme.com
+* Убит: demonoid.pw
+* Убит: carambatv.ru
+* Убит: rookie.com.pl
+* Убит: FuckAdBlock (Исправлено)
+* Убит: Better Stop Adblock
 
 
-##### Release 7.9 (April 11, 2015)
-* Improve: part script code
-* Kill: bit-vortex.com
-* Kill: 4shared.com (Fix)
-* Kill: fit.sh
-* Kill: fosshub.com
-* Kill: coinracket.com
-* Kill: faucetofamerica.com
-* Kill: thebitcoinsheep.com
-* Kill: landofdogecoin.com
-* Kill: usafaucet.tk
-* Kill: flightradar24.com
-* Kill: fan-de-cinema.com
-* Kill: xiaopan.co
-* Kill: ville-ideale.com
-* Kill: mobilevids.org
-* Kill: saikoanimes.net
-* Kill: bitvisits.com
-* Kill: cryptospout.com
-* Kill: cmmonitor.com
-* Kill: 777bitco.in
-* Kill: vipleague.se
-* Kill: vipleague.me
-* Kill: mangamap.com
-* Kill: videomega.tv
-* Kill: psarips.com
-* Kill: theextopia.com
-* Kill: urlchecker.org
-* Kill: onepiece-mx.net
-* Kill: filmovizija.com (Fix)
-* Kill: vivo.sx
-* Kill: vvvvid.it
-* Kill: miniup.com (Fix)
-* Kill: umahdroid.blogspot.com
-* Kill: streaming-foot.me
-* Kill: generatupremium.biz
-* Kill: linkcrypt.ws
-* Kill: myspass.de (Fix)
-* Kill: droidsoft.fr
-* Kill: dirtstyle.tv
-* Kill: slideplayer.org
-* Kill: hackintosh.zone (Fix)
-* Kill: streaming.crazy-bros.fr
-* Kill: AdBlock Notify (Plugin)
+##### Релиз 7.9 (April 11, 2015)
+* Улучшен: part script code
+* Убит: bit-vortex.com
+* Убит: 4shared.com (Исправлено)
+* Убит: fit.sh
+* Убит: fosshub.com
+* Убит: coinracket.com
+* Убит: faucetofamerica.com
+* Убит: thebitcoinsheep.com
+* Убит: landofdogecoin.com
+* Убит: usafaucet.tk
+* Убит: flightradar24.com
+* Убит: fan-de-cinema.com
+* Убит: xiaopan.co
+* Убит: ville-ideale.com
+* Убит: mobilevids.org
+* Убит: saikoanimes.net
+* Убит: bitvisits.com
+* Убит: cryptospout.com
+* Убит: cmmonitor.com
+* Убит: 777bitco.in
+* Убит: vipleague.se
+* Убит: vipleague.me
+* Убит: mangamap.com
+* Убит: videomega.tv
+* Убит: psarips.com
+* Убит: theextopia.com
+* Убит: urlchecker.org
+* Убит: onepiece-mx.net
+* Убит: filmovizija.com (Исправлено)
+* Убит: vivo.sx
+* Убит: vvvvid.it
+* Убит: miniup.com (Исправлено)
+* Убит: umahdroid.blogspot.com
+* Убит: streaming-foot.me
+* Убит: generatupremium.biz
+* Убит: linkcrypt.ws
+* Убит: myspass.de (Исправлено)
+* Убит: droidsoft.fr
+* Убит: dirtstyle.tv
+* Убит: slideplayer.org
+* Убит: hackintosh.zone (Исправлено)
+* Убит: streaming.crazy-bros.fr
+* Убит: AdBlock Notify (Plugin)
 
-##### Release 7.8 (March 12, 2015)
-* Add: posibility donate by Dogecoin
-* Add: posibility donate by Litecoin
-* Optimize: Aak list
-* Kill: zive.cz
-* Kill: viki.com
-* Kill: debilizator.tv
-* Kill: videopremium.tv
-* Kill: hackintosh.zone (Fix)
-* Kill: filmovizija.com (Fix)
-* Kill: psarips.com
-* Kill: skidrowcrack.com
-* Kill: afdah.com
-* Kill: alternativeto.net
-* Kill: transferfile.tk
-* Kill: bitdebrid.com
-* Kill: uploaded-fastpremium.com
-* Kill: uploaded-premium.in
-* Kill: bez-premki.pl
-* Kill: contasfree.com
-* Kill: ketubanjiwa.com
-* Kill: hentaienespañol.net
-* Kill: turbogenerator.info
-* Kill: nana10.co.il
-* Kill: grifthost.com
-* Kill: dota-trade.com
-* Kill: rojadirecta.me
-* Kill: planetatvonlinehd.blogspot.com
-* Kill: seriesbang.net
-* Kill: mangabee.co
-* Kill: xpremiumx.blogspot.com
-* Kill: phonandroid.com
-* Kill: an1me.se
-* Kill: psarips.com
-* Kill: lolesporte.com
-* Kill: rlsbb.com
-* Kill: genbird.com
-* Kill: crococoin.com
-* Kill: treebitcoin.com
-* Kill: bithourly.com
-* Kill: dailyfreebits.com
-* Kill: jewelrybitco.in
-* Kill: welovebtc.com
-* Kill: satoshiquiz.com
-* Kill: ogmcdownload.com
-* Kill: jetetroll.com
-* Kill: lachainemeteo.com
-* Kill: hack-sat.com
-* Kill: flashback.org
-* Kill: captchme.net
-* Kill: sos-lettre.fr
-* Kill: socialblade.com
-* Kill: tamilmovierockers.net
-* Kill: dailyacc.com
-* Kill: premiumst0re.com
-* Kill: desihoes.com
-* Kill: vgtv.no
-* Kill: bitcoinpuddle.com
-* Kill: moondoge.co.in
-* Kill: faucet.bitcoinzebra.com
-* Kill: btcgratis.com
-* Kill: btc-gratis.com
-* Kill: dogecoinpuddle.com
-* Kill: omux.ru
-* Kill: moonliteco.in
-* Kill: bitonplay.com
-* Kill: cryptodrips.com
-* Kill: faucet.cashcat.eu
-* Kill: icebitco.in
+##### Релиз 7.8 (March 12, 2015)
+* Добавлен: posibility donate by Dogecoin
+* Добавлен: posibility donate by Litecoin
+* Оптимизирован: Aak list
+* Убит: zive.cz
+* Убит: viki.com
+* Убит: debilizator.tv
+* Убит: videopremium.tv
+* Убит: hackintosh.zone (Исправлено)
+* Убит: filmovizija.com (Исправлено)
+* Убит: psarips.com
+* Убит: skidrowcrack.com
+* Убит: afdah.com
+* Убит: alternativeto.net
+* Убит: transferfile.tk
+* Убит: bitdebrid.com
+* Убит: uploaded-fastpremium.com
+* Убит: uploaded-premium.in
+* Убит: bez-premki.pl
+* Убит: contasfree.com
+* Убит: ketubanjiwa.com
+* Убит: hentaienespañol.net
+* Убит: turbogenerator.info
+* Убит: nana10.co.il
+* Убит: grifthost.com
+* Убит: dota-trade.com
+* Убит: rojadirecta.me
+* Убит: planetatvonlinehd.blogspot.com
+* Убит: seriesbang.net
+* Убит: mangabee.co
+* Убит: xpremiumx.blogspot.com
+* Убит: phonandroid.com
+* Убит: an1me.se
+* Убит: psarips.com
+* Убит: lolesporte.com
+* Убит: rlsbb.com
+* Убит: genbird.com
+* Убит: crococoin.com
+* Убит: treebitcoin.com
+* Убит: bithourly.com
+* Убит: dailyfreebits.com
+* Убит: jewelrybitco.in
+* Убит: welovebtc.com
+* Убит: satoshiquiz.com
+* Убит: ogmcdownload.com
+* Убит: jetetroll.com
+* Убит: lachainemeteo.com
+* Убит: hack-sat.com
+* Убит: flashback.org
+* Убит: captchme.net
+* Убит: sos-lettre.fr
+* Убит: socialblade.com
+* Убит: tamilmovierockers.net
+* Убит: dailyacc.com
+* Убит: premiumst0re.com
+* Убит: desihoes.com
+* Убит: vgtv.no
+* Убит: bitcoinpuddle.com
+* Убит: moondoge.co.in
+* Убит: faucet.bitcoinzebra.com
+* Убит: btcgratis.com
+* Убит: btc-gratis.com
+* Убит: dogecoinpuddle.com
+* Убит: omux.ru
+* Убит: moonliteco.in
+* Убит: bitonplay.com
+* Убит: cryptodrips.com
+* Убит: faucet.cashcat.eu
+* Убит: icebitco.in
 
-##### Release 7.7 (January 26, 2015)
-* Add: meta keys @supportURL and @contributionURL
-* Kill: tv3play.se
-* Kill: tv6play.se
-* Kill: tv8play.se
-* Kill: tv10play.se
-* Kill: smashboards.com
-* Kill: sports.ru
-* Kill: mangabird.com
-* Kill: rtlxl.nl
-* Kill: oploverz.net
-* Kill: afreesms.com
-* Kill: manga9.com
-* Kill: avmask.com
-* Kill: fz.se
-* Kill: premiumleecher.com
-* Kill: leecher.us 
-* Kill: debridx.com
-* Kill: tv-porinternet.com
-* Kill: debridit.com
-* Kill: premiumst0re.blogspot.com
-* Kill: readms.com
-* Kill: maxedtech.com
-* Kill: lequipe.fr
-* Kill: tvxat.org
-* Kill: comptoir-hardware.com
-* Kill: call-share.ddns.net
-* Kill: hackintosh.zone
-* Kill: testious.com
-* Kill: kissanime.com
-* Kill: afreesms.com
-* Kill: tzetze.it (Fix)
-* Kill: cccam-server.info
-* Kill: lien-torrent.com
-* Kill: iphones.ru
-* Kill: tyrant.40in.net
-* Kill: onemanga.me
-* Kill: pencurimovie.cc
-* Kill: quickbitco.in
-* Kill: miniup.com
-* Kill: totaldebrid.org
-* Kill: turkdown.com
-* Kill: labnol.org
-* Kill: gratisbitco.in
-* Kill: streaming-foot.info
-* Kill: filecore.co.nz
-* Kill: safelinking.biz
-* Kill: adultkino.org
-* Kill: bywarrior.com
-* Kill: goldenboys.fr
-* Kill: porn-blog.me
-* Kill: coolkora.com
-* Kill: torrent-rutor.org
-* Kill: pogocheats.net
-* Kill: onvasortir.com
-* Kill: gtaxscripting.blogspot.com
-* Kill: eclypsia.com (Fix)
-* Kill: fantagazzetta.com
-* Kill: knowlet3389.blogspot.com
-* Kill: streamlive.to
-* Kill: bitcoinker.com
-* Kill: faucet.bitcoinzebra.com
-* Kill: moonbit.co.in
-* Kill: freebitco.in (Fix)
-* Kill: freedoge.co (Fix)
-* Kill: zeb89.altervista.org (Fix)
-* Kill: latesthackingnews.com
-* Kill: writing.com (Fix)
-* Kill: videomega.tv (Fix)
-* Kill: apkmirror.com
-* Kill: mackproject.com
-* Kill: play.novatv.bg
-* Kill: redtube.com
-* Kill: banid.pl
-* Kill: coingamez.com
-* Kill: linkcrypt.ws
-* Kill: filmweb.pl
-* Kill: skiplimite.tv
-* Kill: tzetze.it
-* Kill: Antiblock.org (Fix)
-* Kill: mesddl.cc
-* Kill: rapeit.net
-* Kill: filecore.co.nz
-* Kill: videodroid.org
-* Kill: premiumst0re.blogspot.com
-* Kill: anizm.com
-* Kill: onlinemoviesfreee.com
-* Kill: planetatvonlinehd.blogspot.com
-* Kill: ver-flv.com
-* Kill: getbitcoins.nx.tc
-* Kill: freebitcoins.nx.tc
-* Kill: freecoins4.me
-* Kill: eventosppv.me
-* Kill: sylnk.net
-* Kill: eclypsia.com (improve)
-* Kill: freedoge.co.in
-* Kill: doulci.net
-* Kill: linkguard.biz
-* Kill: receive-sms-online.info
-* Kill: extreamleech.com
-* Kill: lequipe.fr
-* Kill: AdBuddy (script)
+##### Релиз 7.7 (January 26, 2015)
+* Добавлен: meta keys @supportURL and @contributionURL
+* Убит: tv3play.se
+* Убит: tv6play.se
+* Убит: tv8play.se
+* Убит: tv10play.se
+* Убит: smashboards.com
+* Убит: sports.ru
+* Убит: mangabird.com
+* Убит: rtlxl.nl
+* Убит: oploverz.net
+* Убит: afreesms.com
+* Убит: manga9.com
+* Убит: avmask.com
+* Убит: fz.se
+* Убит: premiumleecher.com
+* Убит: leecher.us 
+* Убит: debridx.com
+* Убит: tv-porinternet.com
+* Убит: debridit.com
+* Убит: premiumst0re.blogspot.com
+* Убит: readms.com
+* Убит: maxedtech.com
+* Убит: lequipe.fr
+* Убит: tvxat.org
+* Убит: comptoir-hardware.com
+* Убит: call-share.ddns.net
+* Убит: hackintosh.zone
+* Убит: testious.com
+* Убит: kissanime.com
+* Убит: afreesms.com
+* Убит: tzetze.it (Исправлено)
+* Убит: cccam-server.info
+* Убит: lien-torrent.com
+* Убит: iphones.ru
+* Убит: tyrant.40in.net
+* Убит: onemanga.me
+* Убит: pencurimovie.cc
+* Убит: quickbitco.in
+* Убит: miniup.com
+* Убит: totaldebrid.org
+* Убит: turkdown.com
+* Убит: labnol.org
+* Убит: gratisbitco.in
+* Убит: streaming-foot.info
+* Убит: filecore.co.nz
+* Убит: safelinking.biz
+* Убит: adultkino.org
+* Убит: bywarrior.com
+* Убит: goldenboys.fr
+* Убит: porn-blog.me
+* Убит: coolkora.com
+* Убит: torrent-rutor.org
+* Убит: pogocheats.net
+* Убит: onvasortir.com
+* Убит: gtaxscripting.blogspot.com
+* Убит: eclypsia.com (Исправлено)
+* Убит: fantagazzetta.com
+* Убит: knowlet3389.blogspot.com
+* Убит: streamlive.to
+* Убит: bitcoinker.com
+* Убит: faucet.bitcoinzebra.com
+* Убит: moonbit.co.in
+* Убит: freebitco.in (Исправлено)
+* Убит: freedoge.co (Исправлено)
+* Убит: zeb89.altervista.org (Исправлено)
+* Убит: latesthackingnews.com
+* Убит: writing.com (Исправлено)
+* Убит: videomega.tv (Исправлено)
+* Убит: apkmirror.com
+* Убит: mackproject.com
+* Убит: play.novatv.bg
+* Убит: redtube.com
+* Убит: banid.pl
+* Убит: coingamez.com
+* Убит: linkcrypt.ws
+* Убит: filmweb.pl
+* Убит: skiplimite.tv
+* Убит: tzetze.it
+* Убит: Antiblock.org (Исправлено)
+* Убит: mesddl.cc
+* Убит: rapeit.net
+* Убит: filecore.co.nz
+* Убит: videodroid.org
+* Убит: premiumst0re.blogspot.com
+* Убит: anizm.com
+* Убит: onlinemoviesfreee.com
+* Убит: planetatvonlinehd.blogspot.com
+* Убит: ver-flv.com
+* Убит: getbitcoins.nx.tc
+* Убит: freebitcoins.nx.tc
+* Убит: freecoins4.me
+* Убит: eventosppv.me
+* Убит: sylnk.net
+* Убит: eclypsia.com (improve)
+* Убит: freedoge.co.in
+* Убит: doulci.net
+* Убит: linkguard.biz
+* Убит: receive-sms-online.info
+* Убит: extreamleech.com
+* Убит: lequipe.fr
+* Убит: AdBuddy (script)
 
-##### Release 7.6 (September 28, 2014)
-* kill: online.dramacafe.in
-* Kill: javso.com
-* Kill: videomega.tv
-* Kill: coolkora.com
-* Kill: eclypsia.com
-* Kill: StopAdBlock (script)
-* Kill: linkshrink.net
-* Kill: spaste.com
-* Kill: sat1.de
-* Kill: kooralive.info
-* Kill: player.pl
-* kill: scan-mx.com
-* Kill: paidverts.com
-* Kill: biztok.pl
-* Kill: wrzuta.pl
-* Kill: pudelek.tv
-* Kill: komediowo.pl
-* Kill: wp.pl
-* Kill: wp.tv
-* Kill: gamingroom.tv
-* Kill: domislive.com
-* Kill: upf.co.il
-* Kill: tvn24.pl (Fix)
-* Kill: playtv.fr (Fix)
-* Kill: file4go.com (Fix)
-* Edit: @excludes
-* Improve: Aak.player
+##### Релиз 7.6 (September 28, 2014)
+* Убит: online.dramacafe.in
+* Убит: javso.com
+* Убит: videomega.tv
+* Убит: coolkora.com
+* Убит: eclypsia.com
+* Убит: StopAdBlock (script)
+* Убит: linkshrink.net
+* Убит: spaste.com
+* Убит: sat1.de
+* Убит: kooralive.info
+* Убит: player.pl
+* Убит: scan-mx.com
+* Убит: paidverts.com
+* Убит: biztok.pl
+* Убит: wrzuta.pl
+* Убит: pudelek.tv
+* Убит: komediowo.pl
+* Убит: wp.pl
+* Убит: wp.tv
+* Убит: gamingroom.tv
+* Убит: domislive.com
+* Убит: upf.co.il
+* Убит: tvn24.pl (Исправлено)
+* Убит: playtv.fr (Исправлено)
+* Убит: file4go.com (Исправлено)
+* Изменен: @excludes
+* Улучшен: Aak.player
 
-##### Release 7.5 (August 26, 2014)
-* Kill: secret-zone.net
-* Kill: hln.be
-* Kill: nieuwsblad.be
-* Kill: demorgen.be
-* Kill: megagames.com
-* Kill: online.dramacafe.tv
-* Kill: tvn24.pl
-* Kill: putlocker.is
-* Kill: straight-world.de
-* Kill: vinestown.com
-* Kill: maxcheaters.com
-* Kill: clubedohardware.com.br
-* Kill: forum.clubedohardware.com.br
-* Kill: kissanime.com (Fix)
-* Kill: file4go.com (Fix)
-* Kill: play.tv & playtv.fr (Fix)
-* Kill: pipocas.tv (Fix)
-* Add: Anti-Adblock Killer on Twitter
-* Add: Anti-Adblock Killer on MonkeyGuts
-* Add: @grant unsafewindow
-* Add: redirect discuss, feedback, comments to Github
-* New: icon
-* Edit: event listeners
-* Fix: bug command menu (Scriptish)
-* Fix: bug Aak.addScript
-* Improve: Aak.notification
-* Improve: detection of generic antiblocks
+##### Релиз 7.5 (August 26, 2014)
+* Убит: secret-zone.net
+* Убит: hln.be
+* Убит: nieuwsblad.be
+* Убит: demorgen.be
+* Убит: megagames.com
+* Убит: online.dramacafe.tv
+* Убит: tvn24.pl
+* Убит: putlocker.is
+* Убит: straight-world.de
+* Убит: vinestown.com
+* Убит: maxcheaters.com
+* Убит: clubedohardware.com.br
+* Убит: forum.clubedohardware.com.br
+* Убит: kissanime.com (Исправлено)
+* Убит: file4go.com (Исправлено)
+* Убит: play.tv & playtv.fr (Исправлено)
+* Убит: pipocas.tv (Исправлено)
+* Добавлен: Anti-Adblock Killer on Twitter
+* Добавлен: Anti-Adblock Killer on MonkeyGuts
+* Добавлен: @grant unsafewindow
+* Добавлен: redirect discuss, feedback, comments to Github
+* Новое: icon
+* Изменен: event listeners
+* Исправлен: bug command menu (Scriptish)
+* Исправлен: bug Aak.addScript
+* Улучшен: Aak.notification
+* Улучшен: detection of generic antiblocks
 
-##### Release 7.4 (July 22, 2014)
-* Kill: siamfishing.com
-* Kill: aloneteam.net
-* Kill: video44.net
-* Kill: gamergen.com
-* Kill: writing.com
-* Kill: generatupremium.biz
-* Kill: jeuxactu.com
-* Kill: fansubresistance.biz
-* Kill: pronpic.org
-* Kill: hellsmedia.com
-* Kill: sportsplays.com
-* Kill: chrissmoove.com
-* Kill: pipocas.tv
-* Kill: tiervermittlung.de
-* Kill: mufa.de
-* Kill: vapingunderground.com
-* Kill: ytconv.net
-* Kill: privateinsta.com (Fix)
-* Kill: videobug.net (Fix)
-* Kill: play44.net (Fix)
-* Kill: videofun.me (Fix)
-* Kill: filecom.net (Fix)
-* Kill: cardinals.clubs.nfl.com (Fix)
-* Kill: breakmanga.com (Fix)
-* Kill: fitshr.net (Fix)
-* Kill: picload.org (Fix)
-* Kill: chine-informations.com (Fix)
-* Kill: btspread.com (Fix)
-* Kill: javzoo.com (Fix)
-* Kill: javpee.com (Fix)
-* Kill: eveskunk.com (Fix)
-* Kill: notre-planete.info (Fix)
-* Kill: myanimes.li (Fix)
-* Improve: detection of generic antiblocks
-* Improve: Aak.player (jw5,jw6,flow)
-* Remove: obsolete code
+##### Релиз 7.4 (July 22, 2014)
+* Убит: siamfishing.com
+* Убит: aloneteam.net
+* Убит: video44.net
+* Убит: gamergen.com
+* Убит: writing.com
+* Убит: generatupremium.biz
+* Убит: jeuxactu.com
+* Убит: fansubresistance.biz
+* Убит: pronpic.org
+* Убит: hellsmedia.com
+* Убит: sportsplays.com
+* Убит: chrissmoove.com
+* Убит: pipocas.tv
+* Убит: tiervermittlung.de
+* Убит: mufa.de
+* Убит: vapingunderground.com
+* Убит: ytconv.net
+* Убит: privateinsta.com (Исправлено)
+* Убит: videobug.net (Исправлено)
+* Убит: play44.net (Исправлено)
+* Убит: videofun.me (Исправлено)
+* Убит: filecom.net (Исправлено)
+* Убит: cardinals.clubs.nfl.com (Исправлено)
+* Убит: breakmanga.com (Исправлено)
+* Убит: fitshr.net (Исправлено)
+* Убит: picload.org (Исправлено)
+* Убит: chine-informations.com (Исправлено)
+* Убит: btspread.com (Исправлено)
+* Убит: javzoo.com (Исправлено)
+* Убит: javpee.com (Исправлено)
+* Убит: eveskunk.com (Исправлено)
+* Убит: notre-planete.info (Исправлено)
+* Убит: myanimes.li (Исправлено)
+* Улучшен: detection of generic antiblocks
+* Улучшен: Aak.player (jw5,jw6,flow)
+* Удален: obsolete code
 
-##### Release 7.3 (June 29, 2014)
-* Kill: anisubsia.com
-* Kill: eveskunk.com
-* Kill: btspread.com
-* Kill: aseanlegacy.net
-* Kill: leecher.us
-* Kill: debrid.us
-* Kill: wowhq.ws
-* Kill: anime4fun.com
-* Kill: xbox360pcemulator.com
-* Kill: gta5hack.com
-* Kill: kingleech.com
-* Kill: securefile.info
-* Kill: xpango.com-cheat.in
-* Kill: 4shared.downloadlagu.info
-* Kill: freeudidregistration.com
-* Kill: b-books.info
-* Kill: copsilver.com
-* Kill: freebo2.com
-* Kill: techietricks.net
-* Kill: vinaftw.co.uk
-* Kill: spotifygratuit.com
-* Kill: free-itunes-gift-cards.com
-* Kill: freeminecraftaccount.us
-* Kill: ffa-hosting.com
-* Kill: skincodesgiveaway.com
-* Kill: game-debate.com
-* Kill: uploaded-premium.ru
-* Kill: mypcgamesfreedownload.blogspot.com
-* Kill: nakedhelen.com
-* Kill: asiofree.com
-* Kill: mol.cheatsplanet.net
-* Kill: debrideurgratuit.org
-* Kill: thebesttrainers.net
-* Kill: pickcrackpasswords.blogspot.com
-* Kill: yourcodeis.com
-* Kill: timepasss.com
-* Kill: thehyphy.com
-* Kill: search-an-inmate.com
-* Kill: getterraria.info
-* Kill: fullsoftwaredownload.info
-* Kill: premium-spotify.com
-* Kill: ndsroms.altervista.org
-* Kill: itunesgiftcard.fbmaniaz.com
-* Kill: phone-track.net
-* Kill: filepixy.com
-* Kill: watchmovies.just4umedia.com
-* Kill: netflixaccount.org
-* Kill: javzoo.com
-* Kill: javpee.com
-* Kill: multifichier.com
-* Kill: yellowbridge.com (Fix)
-* Kill: abola.pt (video player) (Fix)
-* Kill: javpee.com (Fix)
-* Kill: javzoo.com (Fix)
-* Kill: notre-planete.info (Fix)
-* Fix: donate buttons
-* Add: Aak.autoReport
-* Add: various @grant
-* Improve: detection of generic antiblocks
-* Improve: prototype.contains
-* Improve: Aak.addElement
+##### Релиз 7.3 (June 29, 2014)
+* Убит: anisubsia.com
+* Убит: eveskunk.com
+* Убит: btspread.com
+* Убит: aseanlegacy.net
+* Убит: leecher.us
+* Убит: debrid.us
+* Убит: wowhq.ws
+* Убит: anime4fun.com
+* Убит: xbox360pcemulator.com
+* Убит: gta5hack.com
+* Убит: kingleech.com
+* Убит: securefile.info
+* Убит: xpango.com-cheat.in
+* Убит: 4shared.downloadlagu.info
+* Убит: freeudidregistration.com
+* Убит: b-books.info
+* Убит: copsilver.com
+* Убит: freebo2.com
+* Убит: techietricks.net
+* Убит: vinaftw.co.uk
+* Убит: spotifygratuit.com
+* Убит: free-itunes-gift-cards.com
+* Убит: freeminecraftaccount.us
+* Убит: ffa-hosting.com
+* Убит: skincodesgiveaway.com
+* Убит: game-debate.com
+* Убит: uploaded-premium.ru
+* Убит: mypcgamesfreedownload.blogspot.com
+* Убит: nakedhelen.com
+* Убит: asiofree.com
+* Убит: mol.cheatsplanet.net
+* Убит: debrideurgratuit.org
+* Убит: thebesttrainers.net
+* Убит: pickcrackpasswords.blogspot.com
+* Убит: yourcodeis.com
+* Убит: timepasss.com
+* Убит: thehyphy.com
+* Убит: search-an-inmate.com
+* Убит: getterraria.info
+* Убит: fullsoftwaredownload.info
+* Убит: premium-spotify.com
+* Убит: ndsroms.altervista.org
+* Убит: itunesgiftcard.fbmaniaz.com
+* Убит: phone-track.net
+* Убит: filepixy.com
+* Убит: watchmovies.just4umedia.com
+* Убит: netflixaccount.org
+* Убит: javzoo.com
+* Убит: javpee.com
+* Убит: multifichier.com
+* Убит: yellowbridge.com (Исправлено)
+* Убит: abola.pt (video player) (Исправлено)
+* Убит: javpee.com (Исправлено)
+* Убит: javzoo.com (Исправлено)
+* Убит: notre-planete.info (Исправлено)
+* Исправлен: donate buttons
+* Добавлен: Aak.autoReport
+* Добавлен: various @grant
+* Улучшен: detection of generic antiblocks
+* Улучшен: prototype.contains
+* Улучшен: Aak.addElement
 
-##### Release 7.2 (May 20, 2014)
-* Kill: javzoo.com
-* Kill: advertise.com
-* Kill: allsoftinone.com
-* Kill: annuaire-xavbox.com
-* Kill: b-books.info
-* Kill: consoledejeux.info
-* Kill: copsilver.com
-* Kill: free-itunes-gift-cards.com
-* Kill: freebo2.com
-* Kill: freeminecraftaccount.us
-* Kill: freewowmembership.com
-* Kill: fullmovieshd.org
-* Kill: fullsoftwaredownload.info
-* Kill: getterraria.info
-* Kill: mecozz.com
-* Kill: minecraftraffle.com
-* Kill: pose-de-puce.info
-* Kill: search-an-inmate.com 
-* Kill: thehyphy.com
-* Kill: timepasss.com
-* Kill: videos.sominaltvfilms.com
-* Kill: yooclick.com
-* Kill: yourcodeis.com 
-* Kill: Blogspot no country redirect (NCR)
-* Kill: nas-forum.com
-* Kill: duoliphotography.com
-* Kill: pickcrackpasswords.blogspot.com
-* Kill: tekkitdupes.blogspot.com
-* Kill: watch-latest-movies-online-daily.blogspot.com
-* Kill: filmovizija.net/
-* Kill: filmovizija.com (Fix)
-* Kill: thebesttrainers.net (Fix)
-* Kill: bee4.biz (Fix)
-* Kill: filesdld.com (Fix)
-* Kill: uptobox.com (Fix)
-* Kill: filesdld.com (Fix)
-* Kill: privateinsta.com (Fix)
-* Improve: Aak.getVersion (for unsupported script managers)
-* Improve: Aak.getScriptManager (news script managers)
-* Optimize: userscript code
+##### Релиз 7.2 (May 20, 2014)
+* Убит: javzoo.com
+* Убит: advertise.com
+* Убит: allsoftinone.com
+* Убит: annuaire-xavbox.com
+* Убит: b-books.info
+* Убит: consoledejeux.info
+* Убит: copsilver.com
+* Убит: free-itunes-gift-cards.com
+* Убит: freebo2.com
+* Убит: freeminecraftaccount.us
+* Убит: freewowmembership.com
+* Убит: fullmovieshd.org
+* Убит: fullsoftwaredownload.info
+* Убит: getterraria.info
+* Убит: mecozz.com
+* Убит: minecraftraffle.com
+* Убит: pose-de-puce.info
+* Убит: search-an-inmate.com 
+* Убит: thehyphy.com
+* Убит: timepasss.com
+* Убит: videos.sominaltvfilms.com
+* Убит: yooclick.com
+* Убит: yourcodeis.com 
+* Убит: Blogspot no country redirect (NCR)
+* Убит: nas-forum.com
+* Убит: duoliphotography.com
+* Убит: pickcrackpasswords.blogspot.com
+* Убит: tekkitdupes.blogspot.com
+* Убит: watch-latest-movies-online-daily.blogspot.com
+* Убит: filmovizija.net/
+* Убит: filmovizija.com (Исправлено)
+* Убит: thebesttrainers.net (Исправлено)
+* Убит: bee4.biz (Исправлено)
+* Убит: filesdld.com (Исправлено)
+* Убит: uptobox.com (Исправлено)
+* Убит: filesdld.com (Исправлено)
+* Убит: privateinsta.com (Исправлено)
+* Улучшен: Aak.getVersion (for unsupported script managers)
+* Улучшен: Aak.getScriptManager (news script managers)
+* Оптимизирован: userscript code
 
-##### Release 7.1 (May 14, 2014)
-* Kill: ftlwiki.com
-* Kill: eami.in
-* Kill: seguridadwireless.es
-* Kill: tout-gratuit.be
-* Kill: bg-gledai.tv
-* Kill: filecore.co.nz
-* Kill: fcore.eu
-* Kill: hqpdb.com
-* Kill: watcharab.com (Fix)
-* Add: Anti-Adblock Killer on Greasefork.org
-* Add: Anti-Adblock Killer on Openuserjs.org
-* Add: Anti-Adblock Killer on Github.com
-* Add: Aak.detectFilters
-* Fix: bugs on Tampermonkey (Opera)
-* Fix: bugs on NinjaKit (Safari)
-* Fix: bug GM_getMetadata on Scriptish (Firefox)
-* Fix: bug GM_registerMenuCommand on Scriptish (Firefox)
+##### Релиз 7.1 (May 14, 2014)
+* Убит: ftlwiki.com
+* Убит: eami.in
+* Убит: seguridadwireless.es
+* Убит: tout-gratuit.be
+* Убит: bg-gledai.tv
+* Убит: filecore.co.nz
+* Убит: fcore.eu
+* Убит: hqpdb.com
+* Убит: watcharab.com (Исправлено)
+* Добавлен: Anti-Adblock Killer on Greasefork.org
+* Добавлен: Anti-Adblock Killer on Openuserjs.org
+* Добавлен: Anti-Adblock Killer on Github.com
+* Добавлен: Aak.detectFilters
+* Исправлен: bugs on Tampermonkey (Opera)
+* Исправлен: bugs on NinjaKit (Safari)
+* Исправлен: bug GM_getMetadata on Scriptish (Firefox)
+* Исправлен: bug GM_registerMenuCommand on Scriptish (Firefox)
 * Replace: updateURL
 * Replace: downloadURL
-* Improve: Aak.checkAuto
-* Improve: Aak.update
-* Improve: Mutation Events + Mutation Observer
-* Optimize: userscript code
+* Улучшен: Aak.checkAuto
+* Улучшен: Aak.update
+* Улучшен: Mutation Events + Mutation Observer
+* Оптимизирован: userscript code
 
-##### Release 7.0 (Apr 16, 2014)
-* Kill: tv.majorleaguegaming.com
-* Kill: imgleech.com
-* Kill: yellowbridge.com
-* Kill: oploverz.net
-* Kill: mydisc.net
-* Kill: tusfiles.net
-* Kill: filmovizija.com (Fix)
-* Kill: codeclan.altervista.org (Fix)
-* Kill: Better Stop Adblock (script) (Fix)
-* Fix: bug synch repository (Github)
+##### Релиз 7.0 (Apr 16, 2014)
+* Убит: tv.majorleaguegaming.com
+* Убит: imgleech.com
+* Убит: yellowbridge.com
+* Убит: oploverz.net
+* Убит: mydisc.net
+* Убит: tusfiles.net
+* Убит: filmovizija.com (Исправлено)
+* Убит: codeclan.altervista.org (Исправлено)
+* Убит: Better Stop Adblock (script) (Исправлено)
+* Исправлен: bug synch repository (Github)
 
-##### Release 6.9 (Mar 22, 2014)
-* Kill: adBuddy  (script)
-* Kill: AdUnBlock Free and Premium (script)
-* Kill: FuckAdBlock (script)
-* Kill: bustycrush.com
-* Kill: sharecast.to
-* Kill: exashare.com
-* Kill: pic5you.ru
-* Kill: forum.thgtr.com
-* Kill: better-explorer.com
-* Kill: xavbox.com
-* Kill: xavbox.info
-* Kill: xavbox.org
-* Kill: xavbox360.com
-* Kill: xavboxds.com
-* Kill: xavboxforum.com
-* Kill: xavboxgirls.com
-* Kill: xavboxone.com
-* Kill: xavboxphone.com
-* Kill: xavboxps3.com
-* Kill: xavboxps4.com
-* Kill: xavboxpsp.com
-* Kill: xavboxtuning.com
-* Kill: xavboxwii.com
-* Kill: xavboxwiiu.com
-* Kill: livesoccerhq.com (Fix)
-* Optimize: cleanup redundant rules filterlist
+##### Релиз 6.9 (Mar 22, 2014)
+* Убит: adBuddy  (script)
+* Убит: AdUnBlock Free and Premium (script)
+* Убит: FuckAdBlock (script)
+* Убит: bustycrush.com
+* Убит: sharecast.to
+* Убит: exashare.com
+* Убит: pic5you.ru
+* Убит: forum.thgtr.com
+* Убит: better-explorer.com
+* Убит: xavbox.com
+* Убит: xavbox.info
+* Убит: xavbox.org
+* Убит: xavbox360.com
+* Убит: xavboxds.com
+* Убит: xavboxforum.com
+* Убит: xavboxgirls.com
+* Убит: xavboxone.com
+* Убит: xavboxphone.com
+* Убит: xavboxps3.com
+* Убит: xavboxps4.com
+* Убит: xavboxpsp.com
+* Убит: xavboxtuning.com
+* Убит: xavboxwii.com
+* Убит: xavboxwiiu.com
+* Убит: livesoccerhq.com (Исправлено)
+* Оптимизирован: cleanup redundant rules filterlist
 
-##### Release 6.8 (Fev 25, 2014)
-* Kill: xavboxforum.com
-* Kill: dramapassion.com
-* Kill: pic4you.ru
-* Kill: fichier.net
-* Kill: avaxhome.cc
-* Kill: vostfr-vf.com
-* Kill: prototurk.com
-* Kill: afreesms.com (Fix)
-* Kill: video.kooora.com (Fix)
+##### Релиз 6.8 (Fev 25, 2014)
+* Убит: xavboxforum.com
+* Убит: dramapassion.com
+* Убит: pic4you.ru
+* Убит: fichier.net
+* Убит: avaxhome.cc
+* Убит: vostfr-vf.com
+* Убит: prototurk.com
+* Убит: afreesms.com (Исправлено)
+* Убит: video.kooora.com (Исправлено)
 
-##### Release 6.7 (Fev 5, 2014)
-* Kill: livesoccerhq.com
-* Kill: pc.online143.com
-* Kill: forum.pac-rom.com
-* Kill: seekingalpha.com (by @prdonahue)
-* Kill: needrom.com (Fix)
-* Kill: rtl.de (by hoshie) (Fix)
+##### Релиз 6.7 (Fev 5, 2014)
+* Убит: livesoccerhq.com
+* Убит: pc.online143.com
+* Убит: forum.pac-rom.com
+* Убит: seekingalpha.com (by @prdonahue)
+* Убит: needrom.com (Исправлено)
+* Убит: rtl.de (by hoshie) (Исправлено)
 
-##### Release 6.6 (Jan 26, 2014)
-* Kill: playtv.fr (Fix)
-* Remove: detectFilters (dont works properly)
+##### Релиз 6.6 (Jan 26, 2014)
+* Убит: playtv.fr (Исправлено)
+* Удален: detectFilters (dont works properly)
 
-##### Release 6.5 (Jan 26, 2014)
-* Kill: elahmad.com
-* Kill: z0r.de
-* Kill: rapid8.com
-* Kill: filmon.com
-* Kill: xlocker.net
-* Kill: 720pmkv.com
-* Kill: voxnow.de
-* Kill: rtl.de
-* Kill: abola.pt
-* Kill: sominaltvfilms.com
-* Kill: tek.no
-* Kill: akam.no
-* Kill: teknojobb.no
-* Kill: hardware.no
-* Kill: amobil.no
-* Kill: gamer.no
-* Kill: teknofil.no
-* Kill: eclypsia.com
-* Kill: filmovizija.com (Fix)
-* Kill: leetgamerz.net (Fix)
-* Kill: playtv.fr (Fix)
-* Add: detectFilters
+##### Релиз 6.5 (Jan 26, 2014)
+* Убит: elahmad.com
+* Убит: z0r.de
+* Убит: rapid8.com
+* Убит: filmon.com
+* Убит: xlocker.net
+* Убит: 720pmkv.com
+* Убит: voxnow.de
+* Убит: rtl.de
+* Убит: abola.pt
+* Убит: sominaltvfilms.com
+* Убит: tek.no
+* Убит: akam.no
+* Убит: teknojobb.no
+* Убит: hardware.no
+* Убит: amobil.no
+* Убит: gamer.no
+* Убит: teknofil.no
+* Убит: eclypsia.com
+* Убит: filmovizija.com (Исправлено)
+* Убит: leetgamerz.net (Исправлено)
+* Убит: playtv.fr (Исправлено)
+* Добавлен: detectFilters
 * Replace: Mutation Events to Mutation Observer (by Watilin)
 
-##### Release 6.4 (Jan 6, 2014)
-* Kill: roleplayer.me
-* Kill: dbzog.de
-* Kill: notre-planete.info
-* Kill: risiko-gesundheit.de (Fix)
-* Kill: maisgasolina.com (Fix)
-* Improve: notification box
+##### Релиз 6.4 (Jan 6, 2014)
+* Убит: roleplayer.me
+* Убит: dbzog.de
+* Убит: notre-planete.info
+* Убит: risiko-gesundheit.de (Исправлено)
+* Убит: maisgasolina.com (Исправлено)
+* Улучшен: notification box
 
-##### Release 6.3 (Dec 30, 2013)
-* Kill: beppegrillo.it
-* Kill: gaijin.at
-* Kill: makemehost.com
-* Kill: ukvarminting.com
-* Kill: beppegrillo.it
-* Kill: dailybitcoins.org
-* Kill: 2unlimited.info
-* Kill: freebitco.in
-* Kill: anime-shinden.info 
-* Kill: pregen.net
-* Kill: uptobox.com (Fix)
+##### Релиз 6.3 (Dec 30, 2013)
+* Убит: beppegrillo.it
+* Убит: gaijin.at
+* Убит: makemehost.com
+* Убит: ukvarminting.com
+* Убит: beppegrillo.it
+* Убит: dailybitcoins.org
+* Убит: 2unlimited.info
+* Убит: freebitco.in
+* Убит: anime-shinden.info 
+* Убит: pregen.net
+* Убит: uptobox.com (Исправлено)
 
-##### Release 6.2 (Dec 18, 2013)
-* Kill: eami.in
-* Kill: sporttvdireto.com (only firefox)
-* Kill: eventhubs.com (Fix)
+##### Релиз 6.2 (Dec 18, 2013)
+* Убит: eami.in
+* Убит: sporttvdireto.com (only firefox)
+* Убит: eventhubs.com (Исправлено)
 
-##### Release 6.1 (Dec 1, 2013)
-* Kill: free-movie-home.com
-* Kill: wrestletalk.net
-* Kill: planetaua.net
-* Kill: amobil.no
-* Kill: embed.revision3.com
-* Kill: en.anisearch.com
-* Kill: allostreaming-fr.com
-* Kill: eventhubs.com
-* Kill: boerse.bz
-* Kill: youmoviz.tv
+##### Релиз 6.1 (Dec 1, 2013)
+* Убит: free-movie-home.com
+* Убит: wrestletalk.net
+* Убит: planetaua.net
+* Убит: amobil.no
+* Убит: embed.revision3.com
+* Убит: en.anisearch.com
+* Убит: allostreaming-fr.com
+* Убит: eventhubs.com
+* Убит: boerse.bz
+* Убит: youmoviz.tv
 
-##### Release 6.0 (Nov 16, 2013)
-* Kill: snsw.us
-* Kill: mako.co.il
-* Kill: eami.in
-* Kill: yellowbridge.com
-* Kill: cineplanet21.com
+##### Релиз 6.0 (Nov 16, 2013)
+* Убит: snsw.us
+* Убит: mako.co.il
+* Убит: eami.in
+* Убит: yellowbridge.com
+* Убит: cineplanet21.com
 
-##### Release 5.9 (Nov 8, 2013)
-* Kill: thesimsresource.com
-* Kill: coder143.com
-* Kill: video.kooora.com
-* Kill: eventhubs.com
-* Kill: runningmanengsub.com
-* Kill: jheberg.net (Fix)
+##### Релиз 5.9 (Nov 8, 2013)
+* Убит: thesimsresource.com
+* Убит: coder143.com
+* Убит: video.kooora.com
+* Убит: eventhubs.com
+* Убит: runningmanengsub.com
+* Убит: jheberg.net (Исправлено)
 
-##### Release 5.8 (Oct 26, 2013)
-* Kill: eclypsia.com
-* Kill: viki.com
-* Kill: footstream.tv
-* Kill: Aadb Anti Ads Blocker (script)
-* New: icon
+##### Релиз 5.8 (Oct 26, 2013)
+* Убит: eclypsia.com
+* Убит: viki.com
+* Убит: footstream.tv
+* Убит: Aadb Anti Ads Blocker (script)
+* Новое: icon
 
-##### Release 5.7 (Oct 22, 2013)
-* Kill: hentaistream.com
-* Kill: mrtzcmp3.net
-* Kill: twds4e2.nation2.com
-* Kill: videotools.12pings.net
-* Kill: preemlinks.com (Fix)
+##### Релиз 5.7 (Oct 22, 2013)
+* Убит: hentaistream.com
+* Убит: mrtzcmp3.net
+* Убит: twds4e2.nation2.com
+* Убит: videotools.12pings.net
+* Убит: preemlinks.com (Исправлено)
 
-##### Release 5.6 (Oct 14, 2013)
-* Kill: camelstyle.net
-* Kill: urlgalleries.net
-* Kill: onlyteensx.net
-* Kill: journaldugeek.com
-* Kill: dizi-mag.com (Fix)
-* Kill: jheberg.net (Fix)
+##### Релиз 5.6 (Oct 14, 2013)
+* Убит: camelstyle.net
+* Убит: urlgalleries.net
+* Убит: onlyteensx.net
+* Убит: journaldugeek.com
+* Убит: dizi-mag.com (Исправлено)
+* Убит: jheberg.net (Исправлено)
 
-##### Release 5.5 (Oct 10, 2013)
-* Kill: jheberg.net
-* Kill: filmovizija.com
-* Kill: tubemonsoon.com
-* Kill: seekingalpha.com
-* Kill: kissanime.com (Fix)
+##### Релиз 5.5 (Oct 10, 2013)
+* Убит: jheberg.net
+* Убит: filmovizija.com
+* Убит: tubemonsoon.com
+* Убит: seekingalpha.com
+* Убит: kissanime.com (Исправлено)
 
-##### Release 5.4 (Oct 4, 2013)
-* Kill: maxdebrideur.com
-* Kill: needrom.com
-* Kill: hardware.no
+##### Релиз 5.4 (Oct 4, 2013)
+* Убит: maxdebrideur.com
+* Убит: needrom.com
+* Убит: hardware.no
 
-##### Release 5.3 (Sep 25, 2013)
-* Kill: playtv.fr
-* Kill: videofun.me (fullscreen)
-* Kill: forums.tweaktown.com 
-* Kill: eventhubs.com (Fix)
-* Kill: dizi-mag.com (Fix)
-* Kill: antennesport.com (Fix)
+##### Релиз 5.3 (Sep 25, 2013)
+* Убит: playtv.fr
+* Убит: videofun.me (fullscreen)
+* Убит: forums.tweaktown.com 
+* Убит: eventhubs.com (Исправлено)
+* Убит: dizi-mag.com (Исправлено)
+* Убит: antennesport.com (Исправлено)
 
-##### Release 5.2 (Sep 21, 2013)
-* Kill: 2site.me
-* Kill: tweaktown.com
-* Kill: dizi-mag.com
+##### Релиз 5.2 (Sep 21, 2013)
+* Убит: 2site.me
+* Убит: tweaktown.com
+* Убит: dizi-mag.com
 
-##### Release 5.1 (Sep 19, 2013)
-* Kill: hdtvtuga.com
-* Kill: bee4.biz
-* Kill: filmovizija.com
+##### Релиз 5.1 (Sep 19, 2013)
+* Убит: hdtvtuga.com
+* Убит: bee4.biz
+* Убит: filmovizija.com
 
-##### Release 5.0 (Sep 14, 2013)
-* Kill: privateinsta.com
-* Kill: gametrailers.com
-* Kill: sport-show.fr
-* Kill: vipflash.net
-* Kill: eventhubs.com (Fix)
+##### Релиз 5.0 (Sep 14, 2013)
+* Убит: privateinsta.com
+* Убит: gametrailers.com
+* Убит: sport-show.fr
+* Убит: vipflash.net
+* Убит: eventhubs.com (Исправлено)
 
-##### Release 4.9 (Sep 12, 2013)
-* Kill: debrastagi.com
-* Kill: downparadiz.com
-* Kill: sockshare.com
+##### Релиз 4.9 (Sep 12, 2013)
+* Убит: debrastagi.com
+* Убит: downparadiz.com
+* Убит: sockshare.com
 
-##### Release 4.8 (Sep 7, 2013)
-* Kill: doatoolsita.altervista.org
-* Kill: putlocker.com
-* Kill: spedylink.tk
-* Kill: televisaofutebol.com
-* Kill: thepcspy.com
-* Kill: thebesttrainers.net
-* Kill: azcardinals.com
-* Kill: removeadblock.com
-* Kill: generation-nt.com
-* Kill: magestorm.net
-* Kill: shoegames.blogspot.kr
-* Kill: unfair.co
-* Kill: forum.gizmolord.com
-* Kill: de.adklick.net
-* Kill: bitcoins4.me
-* Kill: canhasbitcoin.com
-* Kill: enigmaboard.com
-* Kill: eventhubs.com
-* Kill: megagames.com
-* Kill: ytconv.net
-* Kill: tpmrpg.net
-* Kill: visoterra.com
-* Kill: mp32u.net
-* Kill: animecrave.com
-* Kill: catchvideo.net
-* Kill: boincstats.com
-* Kill: coursdeprofs.fr
-* Kill: mgcash.com
-* Kill: notre-planete.info
-* Kill: voyageforum.com
-* Kill: coursdeprofs.fr
-* Kill: kissanime.com (Fix)
-* Kill: rapidebrideur.com (Fix)
-* Kill: bigdownloader.com (Fix)
-* Fix: check updates automaticaly (now hourly)
-* Add: command menu (checkupdates)
+##### Релиз 4.8 (Sep 7, 2013)
+* Убит: doatoolsita.altervista.org
+* Убит: putlocker.com
+* Убит: spedylink.tk
+* Убит: televisaofutebol.com
+* Убит: thepcspy.com
+* Убит: thebesttrainers.net
+* Убит: azcardinals.com
+* Убит: removeadblock.com
+* Убит: generation-nt.com
+* Убит: magestorm.net
+* Убит: shoegames.blogspot.kr
+* Убит: unfair.co
+* Убит: forum.gizmolord.com
+* Убит: de.adklick.net
+* Убит: bitcoins4.me
+* Убит: canhasbitcoin.com
+* Убит: enigmaboard.com
+* Убит: eventhubs.com
+* Убит: megagames.com
+* Убит: ytconv.net
+* Убит: tpmrpg.net
+* Убит: visoterra.com
+* Убит: mp32u.net
+* Убит: animecrave.com
+* Убит: catchvideo.net
+* Убит: boincstats.com
+* Убит: coursdeprofs.fr
+* Убит: mgcash.com
+* Убит: notre-planete.info
+* Убит: voyageforum.com
+* Убит: coursdeprofs.fr
+* Убит: kissanime.com (Исправлено)
+* Убит: rapidebrideur.com (Исправлено)
+* Убит: bigdownloader.com (Исправлено)
+* Исправлен: check updates automaticaly (now hourly)
+* Добавлен: command menu (checkupdates)
 * Create: filters list "Anti-Adblock Killer | Filters for Adblockers"
 
-##### Release 4.7 (Sep 3, 2013)
-* Kill: estadiofutebol.com
-* Kill: casadossegredos.tv
-* Kill: tvdez.com
-* Kill: desportogratis.com
-* Kill: kissanime.com (just player) (Fix)
+##### Релиз 4.7 (Sep 3, 2013)
+* Убит: estadiofutebol.com
+* Убит: casadossegredos.tv
+* Убит: tvdez.com
+* Убит: desportogratis.com
+* Убит: kissanime.com (just player) (Исправлено)
 
-##### Release 4.6 (Sep 1, 2013)
-* Kill: fshost.me
+##### Релиз 4.6 (Sep 1, 2013)
+* Убит: fshost.me
 
-##### Release 4.5 (Aug 30, 2013)
-* Kill: allsoftinone.com
-* Kill: zeb89.altervista.org
-* Kill: romulation.net
-* Kill: freeallmusic.info
-* Kill: antiblock.org (script) (Improve)
-* Kill: adfly (disable event unbeforeunload) (Fix)
-* Kill: kissanime.com (just player) (Fix)
+##### Релиз 4.5 (Aug 30, 2013)
+* Убит: allsoftinone.com
+* Убит: zeb89.altervista.org
+* Убит: romulation.net
+* Убит: freeallmusic.info
+* Убит: antiblock.org (script) (Improve)
+* Убит: adfly (disable event unbeforeunload) (Исправлено)
+* Убит: kissanime.com (just player) (Исправлено)
 
-##### Release 4.4 (Aug 28, 2013)
-* Kill: ecchi.animeron.tv
-* Kill: imgboo.me
-* Kill: antennesport.com (only Firefox)
-* Kill: kissanime.com (just player) (Fix)
+##### Релиз 4.4 (Aug 28, 2013)
+* Убит: ecchi.animeron.tv
+* Убит: imgboo.me
+* Убит: antennesport.com (only Firefox)
+* Убит: kissanime.com (just player) (Исправлено)
 
-##### Release 4.3 (Aug 27, 2013)
-* Kill: backin.net
-* Kill: kissanime.com (just player) (Fix)
+##### Релиз 4.3 (Aug 27, 2013)
+* Убит: backin.net
+* Убит: kissanime.com (just player) (Исправлено)
 
-##### Release 4.2 (Aug 25, 2013)
-* Kill: up-flow.org
-* Kill: mwfiles.net
-* Kill: kissanime.com (just player) (Fix)
+##### Релиз 4.2 (Aug 25, 2013)
+* Убит: up-flow.org
+* Убит: mwfiles.net
+* Убит: kissanime.com (just player) (Исправлено)
 
-##### Release 4.1 (Aug 23, 2013)
-* Kill: kissanime.com (Fix)
-* Kill: exrapidleech.info (Fix)
-* Kill: elahmad.com (Fix)
+##### Релиз 4.1 (Aug 23, 2013)
+* Убит: kissanime.com (Исправлено)
+* Убит: exrapidleech.info (Исправлено)
+* Убит: elahmad.com (Исправлено)
 
-##### Release 4.0 (Aug 23, 2013)
-* Kill: teknogods.com
-* Kill: aseanlegacy.net
-* Kill: dreamer.weboptime.com
-* Kill: webfilmek-sorozatok.blogspot.com
-* Kill: forum.gamespowerita.com (Fix)
+##### Релиз 4.0 (Aug 23, 2013)
+* Убит: teknogods.com
+* Убит: aseanlegacy.net
+* Убит: dreamer.weboptime.com
+* Убит: webfilmek-sorozatok.blogspot.com
+* Убит: forum.gamespowerita.com (Исправлено)
 
-##### Release 3.9 (Aug 22, 2013)
-* Kill: fileice.net
-* Kill: filmovizija.com
-* Kill: nosteam.ro
-* Kill: openrunner.com
-* Kill: chine-informations.com
-* Kill: easybillets.com
-* Kill: spox.fr
-* Kill: yovoyages.com
-* Kill: tv3.co.nz
-* Kill: freesportsbet.com
-* Kill: primeshare.tv
-* Kill: leaguesecretary.com
-* Kill: theweatherspace.com
-* Kill: wakanim.tv
-* Kill: debrideurstream.fr
-* Kill: aidemu.fr
-* Kill: vgunetwork.com
-* Kill: gamespowerita.com (Fix)
+##### Релиз 3.9 (Aug 22, 2013)
+* Убит: fileice.net
+* Убит: filmovizija.com
+* Убит: nosteam.ro
+* Убит: openrunner.com
+* Убит: chine-informations.com
+* Убит: easybillets.com
+* Убит: spox.fr
+* Убит: yovoyages.com
+* Убит: tv3.co.nz
+* Убит: freesportsbet.com
+* Убит: primeshare.tv
+* Убит: leaguesecretary.com
+* Убит: theweatherspace.com
+* Убит: wakanim.tv
+* Убит: debrideurstream.fr
+* Убит: aidemu.fr
+* Убит: vgunetwork.com
+* Убит: gamespowerita.com (Исправлено)
 
-##### Release 3.8 (Aug 21, 2013)
-* Kill: realamateurwivesandgirlfriends.pornblogy.com
-* Kill: d3brid4y0u.info
-* Add: @exclude chromeactions.com
+##### Релиз 3.8 (Aug 21, 2013)
+* Убит: realamateurwivesandgirlfriends.pornblogy.com
+* Убит: d3brid4y0u.info
+* Добавлен: @exclude chromeactions.com
 
-##### Release 3.7 (Aug 20, 2013)
-* Kill: kissanime.com (Fix)
-* Kill: go4up.com (Fix)
+##### Релиз 3.7 (Aug 20, 2013)
+* Убит: kissanime.com (Исправлено)
+* Убит: go4up.com (Исправлено)
 
-##### Release 3.6 (Aug 19, 2013)
-* Kill: ziddu.com (redirect to captcha)
-* Kill: jkanime.net
-* Kill: kissanime.com (Fix)
+##### Релиз 3.6 (Aug 19, 2013)
+* Убит: ziddu.com (redirect to captcha)
+* Убит: jkanime.net
+* Убит: kissanime.com (Исправлено)
 
-##### Release 3.5 (Aug 18, 2013)
-* Add: check updates automaticaly (every 8 hours)
-* Add: @grant
+##### Релиз 3.5 (Aug 18, 2013)
+* Добавлен: check updates automaticaly (every 8 hours)
+* Добавлен: @grant
 
-##### Release 3.4 (Aug 17, 2013)
-* Kill: freegamehosting.nl
-* Kill: osoarcade.com
-* Kill: mix.dj
-* Kill: watcharab.com
-* Kill: scan-manga.com
-* Kill: instantmanga.com
-* Kill: streamzzz.com
-* Kill: girafeshow.tv
-* Kill: automobile-sportive.com
+##### Релиз 3.4 (Aug 17, 2013)
+* Убит: freegamehosting.nl
+* Убит: osoarcade.com
+* Убит: mix.dj
+* Убит: watcharab.com
+* Убит: scan-manga.com
+* Убит: instantmanga.com
+* Убит: streamzzz.com
+* Убит: girafeshow.tv
+* Убит: automobile-sportive.com
 
-##### Release 3.3 (Aug 15, 2013)
-* Kill: urlink.at
-* Kill: priva.us
-* Kill: picload.org
-* Kill: elahmad.com
-* Kill: filesdld.com (Fix)
-* Add: SSL on updateURL and downloadURL
-* Edit: css notification box
+##### Релиз 3.3 (Aug 15, 2013)
+* Убит: urlink.at
+* Убит: priva.us
+* Убит: picload.org
+* Убит: elahmad.com
+* Убит: filesdld.com (Исправлено)
+* Добавлен: SSL on updateURL and downloadURL
+* Изменен: css notification box
 
-##### Release 3.2 (Aug 14, 2013)
-* Kill: go.phpnulledscripts.com
-* Kill: picstwist.com
+##### Релиз 3.2 (Aug 14, 2013)
+* Убит: go.phpnulledscripts.com
+* Убит: picstwist.com
 
-##### Release 3.1 (Aug 12, 2013)
-* Kill: topzone.lt
-* Kill: file4go.com
-* Kill: cp-g.net
-* Kill: kissanime.com (Fix)
+##### Релиз 3.1 (Aug 12, 2013)
+* Убит: topzone.lt
+* Убит: file4go.com
+* Убит: cp-g.net
+* Убит: kissanime.com (Исправлено)
 
-##### Release 3.0 (Aug 11, 2013)
-* Kill: 9.bb
-* Kill: u.bb
-* Kill: j.gs
-* Kill: q.gs
-* Kill: filesdld.com
-* Edit: css notification box
+##### Релиз 3.0 (Aug 11, 2013)
+* Убит: 9.bb
+* Убит: u.bb
+* Убит: j.gs
+* Убит: q.gs
+* Убит: filesdld.com
+* Изменен: css notification box
 
-##### Release 2.9 (Aug 10, 2013)
-* Fix: various bugs
+##### Релиз 2.9 (Aug 10, 2013)
+* Исправлен: various bugs
 
-##### Release 2.8 (Aug 10, 2013)
-* Kill: kissanime.com (Fix)
+##### Релиз 2.8 (Aug 10, 2013)
+* Убит: kissanime.com (Исправлено)
 
-##### Release 2.7 (Aug 9, 2013)
-* Kill: becompta.be
-* Kill: ebookdz.com
-* Kill: theliverugby.com
-* Kill: materiel-informatique.be
-* Kill: ppsmania.fr
-* Kill: scifi-movies.com
-* Kill: streamupload.org
-* Kill: tous-sports.tv
-* Kill: pro-sport.ws
-* Kill: pro-ddl.ws
-* Kill: leetgamerz.net
+##### Релиз 2.7 (Aug 9, 2013)
+* Убит: becompta.be
+* Убит: ebookdz.com
+* Убит: theliverugby.com
+* Убит: materiel-informatique.be
+* Убит: ppsmania.fr
+* Убит: scifi-movies.com
+* Убит: streamupload.org
+* Убит: tous-sports.tv
+* Убит: pro-sport.ws
+* Убит: pro-ddl.ws
+* Убит: leetgamerz.net
 
-##### Release 2.6 (Aug 8, 2013)
-* Kill: interfans.org/forum
-* Kill: risiko-gesundheit.de (Fix)
+##### Релиз 2.6 (Aug 8, 2013)
+* Убит: interfans.org/forum
+* Убит: risiko-gesundheit.de (Исправлено)
 
-##### Release 2.5 (Aug 7, 2013)
-* Kill: kissanime.com
-* Kill: 360haven.com (Fix)
+##### Релиз 2.5 (Aug 7, 2013)
+* Убит: kissanime.com
+* Убит: 360haven.com (Исправлено)
 
-##### Release 2.4 (Aug 7, 2013)
-* Kill: xxxdownloadsfree.blogspot.com
-* Kill: 360haven.com
+##### Релиз 2.4 (Aug 7, 2013)
+* Убит: xxxdownloadsfree.blogspot.com
+* Убит: 360haven.com
 
-##### Release 2.3 (Aug 6, 2013)
-* Kill: receive-sms.com
-* Kill: bokepspot.com
-* Kill: afreesms.com
-* Kill: youwatch.org
-* Kill: btcflow.net
-* Kill: bitcointree.net
-* Kill: fightnext.com
-* Kill: bitcoiner.net
-* Kill: drivearabia.com
-* Kill: nowvideo.ch
-* Kill: youwatch.org
-* Kill: leetgamerz.net
+##### Релиз 2.3 (Aug 6, 2013)
+* Убит: receive-sms.com
+* Убит: bokepspot.com
+* Убит: afreesms.com
+* Убит: youwatch.org
+* Убит: btcflow.net
+* Убит: bitcointree.net
+* Убит: fightnext.com
+* Убит: bitcoiner.net
+* Убит: drivearabia.com
+* Убит: nowvideo.ch
+* Убит: youwatch.org
+* Убит: leetgamerz.net
 
-##### Release 2.2 (Aug 5, 2013)
-* Kill: risiko-gesundheit.de
-* Kill: leetgamerz.net
-* Kill: codeclan.altervista.org
+##### Релиз 2.2 (Aug 5, 2013)
+* Убит: risiko-gesundheit.de
+* Убит: leetgamerz.net
+* Убит: codeclan.altervista.org
 
-##### Release 2.1 (Aug 4, 2013)
-* Kill: gooddrama.net
-* Kill: anti-ad-blocker.blogspot.com
-* Kill: ryanteck.org.uk
-* Kill: ilix.in
-* Add: notification box
+##### Релиз 2.1 (Aug 4, 2013)
+* Убит: gooddrama.net
+* Убит: anti-ad-blocker.blogspot.com
+* Убит: ryanteck.org.uk
+* Убит: ilix.in
+* Добавлен: notification box
 
-##### Release 2.0 (Aug 3, 2013)
-* Kill: skippyfile.com
-* Kill: upshare.org
-* Kill: gamehack.eu
-* Kill: raw.senmanga.com
-* Kill: antiblock v3 (script)
+##### Релиз 2.0 (Aug 3, 2013)
+* Убит: skippyfile.com
+* Убит: upshare.org
+* Убит: gamehack.eu
+* Убит: raw.senmanga.com
+* Убит: antiblock v3 (script)
 * Fork: "Anti-AntiBlock Plus 2.1" by InfinityCoding
 
-##### Release 1.4 (Jul 30, 2013)
-* Kill: adf.ly
-* Kill: antiblock v2 (script)
+##### Релиз 1.4 (Jul 30, 2013)
+* Убит: adf.ly
+* Убит: antiblock v2 (script)
 
 
-## License 
+## Лицензия 
 * [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
-## Mirrors
+## Зеркала
 * [Github](https://github.com/reek/anti-adblock-killer)
 * [Userscripts](http://userscripts.org:8080/scripts/show/155840)
 * [Greasyfork](https://greasyfork.org/scripts/735-anti-adblock-killer-reek)
